@@ -10,10 +10,7 @@ body, html {height: 100%}
   background-color: rgb(179, 255, 255)
 ;
 }
-.color{
-  background-color: rgb(179, 255, 255)
-;
-}
 .h1{
-  font-color: white;
+  color: white;
+  font-family: Shadows Into Light;
 }
