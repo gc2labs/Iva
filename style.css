@@ -7,5 +7,6 @@ body, html {height: 100%}
   background-size: cover;
 } 
 .color{
-  background-color: red;
+  background-color: rgb(179, 255, 255)
+;
 }
