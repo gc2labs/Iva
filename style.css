@@ -16,3 +16,6 @@ body, html {height: 100vh}
   color: white;
   font-family: 'Patrick Hand';
 }
+.padding{
+  padding: 20px;
+}
