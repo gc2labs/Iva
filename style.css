@@ -1,35 +1,20 @@
-<<<<<<< HEAD
-body,h1 {font-family: 'Chewy', cursive;
+body,h1 {font-family: 'Chewy', cursive, 'Bungee Shade', cursive, 'Amatic SC', cursive;
 text-align: center;
+font-color:white;
 }
-=======
-body,h1 {font-family: 'Patrick Hand', cursive;}
->>>>>>> f1495b8cb8855d485d0cbae8a4f4b4b8c7e24c6c
 
-body, html {height: 100vh}
+body, html {height: 100%}
 .bgimg {
   background-image: url('https://store-images.s-microsoft.com/image/apps.53658.63552592267592524.529fb17e-a013-4a98-a02a-43eda1db4129.589f17b4-f3ce-4788-a222-aa14769dc64b?mode=scale&q=90&h=1080&w=1920&format=jpg');
-  height: 100%;
-  width: 100%;
+  min-height: 100%;
   background-position: center;
   background-size: cover;
-  padding:0;
 }
 .color{
-  background-color: rgb(179, 255, 255);
-}
-.title{
-  color: white;
-<<<<<<< HEAD
-  font-family: 'Bungee Shade', cursive;
+  background-color: rgb(179, 255, 255)
+;
 }
 p{
-  font-family: 'Amatic SC', cursive;.
+  font-family: 'Amatic SC', cursive;
 
-=======
-  font-family: 'Patrick Hand';
-}
-.padding{
-  padding: 20px;
->>>>>>> f1495b8cb8855d485d0cbae8a4f4b4b8c7e24c6c
 }
