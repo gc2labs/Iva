@@ -1,4 +1,6 @@
-body,h1 {font-family: "Patrick Hand", sans-serif}
+body,h1 {font-family: 'Chewy', cursive;
+text-align: center;
+}
 
 body, html {height: 100%}
 .bgimg {
@@ -13,5 +15,9 @@ body, html {height: 100%}
 }
 .h1{
   color: white;
-  font-family: ;
+  font-family: 'Bungee Shade', cursive;
+}
+p{
+  font-family: 'Amatic SC', cursive;.
+
 }
