@@ -1,4 +1,4 @@
-body,h1 {font-family: font-family: 'Patrick Hand', cursive;}
+body,h1 {font-family: 'Patrick Hand', cursive;}
 
 body, html {height: 100%}
 .bgimg {
@@ -13,4 +13,5 @@ body, html {height: 100%}
 }
 .title{
   color: white;
+  font-family: 'Patrick Hand';
 }
