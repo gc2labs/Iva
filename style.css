@@ -1,8 +1,6 @@
 body,h1 {font-family: 'Chewy', cursive, 'Bungee Shade', cursive, 'Amatic SC', cursive;
 text-align: center;
-font-color:white;
 }
-
 body, html {height: 100%}
 .bgimg {
   background-image: url('https://store-images.s-microsoft.com/image/apps.53658.63552592267592524.529fb17e-a013-4a98-a02a-43eda1db4129.589f17b4-f3ce-4788-a222-aa14769dc64b?mode=scale&q=90&h=1080&w=1920&format=jpg');
@@ -11,10 +9,9 @@ body, html {height: 100%}
   background-size: cover;
 }
 .color{
-  background-color: rgb(179, 255, 255)
-;
+  background-color: rgb(179, 255, 255);
+
 }
 p{
-  font-family: 'Amatic SC', cursive;
-
+  font-family: 'Chewy', cursive;
 }
