@@ -1,5 +1,7 @@
-body,h1 {font-family: 'Chewy', cursive, 'Bungee Shade', cursive, 'Amatic SC', cursive;
+body,h1 {font-family: 'Chewy', cursive, 'Amatic SC', cursive;
 text-align: center;
+justify-content: center;
+
 }
 body, html {height: 100%}
 .bgimg {
@@ -8,10 +10,69 @@ body, html {height: 100%}
   background-position: center;
   background-size: cover;
 }
-.color{
-  background-color: rgb(179, 255, 255);
+.color1{
+  background-color: #e6f9ff;
+  padding: 45px ;
+}
+.color1.1{
+
+}
+.color2{
+  background-color: #ccf2ff;
+
+}
+.color3{
+  background-color: #b3ecff;
 
 }
 p{
   font-family: 'Chewy', cursive;
+  border: inset;
+}.title {
+  color: blue;
+  padding: 10px;
+}
+
+.title {
+  color: black;
+  padding: 10px;
+}
+
+.title h1 {
+  font-family: 'Dancing Script', cursive;
+}
+
+.main {
+  font-family: 'Chewy', cursive;
+  text-shadow: 10pt blue;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+}
+
+.border {
+  border: 5px inset blue;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  border-radius: 24px;
+  font-family: "Chewy", sans-serif;
+  padding: 5px;
+}
+
+.animal {
+  font-family: 'Amatic SC', cursive;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 50px;
+  border: 10px dotted blue;
+}
+
+.animal p {
+  font-family: "Chewy", sans-serif;
 }
